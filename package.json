@@ -1,0 +1,15 @@
+{
+  "name": "designpattern",
+  "version": "1.0.0",
+  "description": "PHP design pattern",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Design",
+    "pattern"
+  ],
+  "author": "Reza Jafari",
+  "license": "ISC"
+}
